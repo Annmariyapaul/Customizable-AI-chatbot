@@ -18,6 +18,8 @@ A simple AI chatbot built with Gradio in Google Colab. The chatbot allows users 
 
 ## Screenshots
 
+## Screenshots
+
 ### Chat Interface
 
-![Chatbot UI](Screenshot 2026-06-24 153047.png)
+![Chatbot UI](./Screenshot%202026-06-24%20153047.png)
