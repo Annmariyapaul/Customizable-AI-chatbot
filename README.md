@@ -16,3 +16,8 @@ A simple AI chatbot built with Gradio in Google Colab. The chatbot allows users 
 - Gradio
 - OpenAI API
 
+## Screenshots
+
+### Chat Interface
+
+![Chatbot UI](Screenshot 2026-06-24 153047.png)
